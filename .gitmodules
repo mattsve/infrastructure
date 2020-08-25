@@ -1,0 +1,3 @@
+[submodule "ansible/k3s-rancher"]
+	path = ansible/k3s-rancher
+	url = https://github.com/rancher/k3s-ansible.git
